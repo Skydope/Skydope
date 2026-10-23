@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Augusto Natiello — Security Engineer · Pentester · Backend & Systems" width="100%" />
+<img src="assets/header.svg" alt="Augusto Marcos Natiello — Security Engineer · Pentester · Backend & Systems" width="100%" />
 
 <br><br>
 
