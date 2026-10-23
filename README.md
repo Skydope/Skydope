@@ -1,12 +1,11 @@
 <div align="center">
 
-# Augusto Marcos Natiello
+<img src="assets/header.svg" alt="Augusto Natiello — Security Engineer · Pentester · Backend & Systems" width="100%" />
 
-**Security Engineer · Pentester · Backend & Systems Engineer**
-
-I break things to make them safer, and build the backends and infrastructure that have to survive it.
+<br><br>
 
 [![Website](https://img.shields.io/badge/skydope.info-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://skydope.info/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-natiello/)
 [![GitHub](https://img.shields.io/badge/@Skydope-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Skydope)
 
 </div>
@@ -37,11 +36,12 @@ I break things to make them safer, and build the backends and infrastructure tha
 |---|---|---|
 | [**zeus**](https://github.com/Skydope/zeus) | Windows security utilities: AES-256 authenticated file encryption, folder protection, forensic audit log with hash-chain integrity, PBKDF2 auth with progressive lockout. Ships via Scoop. | PowerShell |
 | [**AIF**](https://github.com/Skydope/AIF) | Agent Instruction Format: a plain-text spec for instructing AI agents and pipelines, with typed fields and deterministic parsing. Reference parsers on npm and PyPI, plus a live playground. | TypeScript · Python |
-| [**omarchy-kali-vm**](https://github.com/Skydope/omarchy-kali-vm) | Security-hardened fork of a one-click Kali VM: no privileged container, GPG signature allowlist, pinned image digests. | Shell · Docker · QEMU |
 | [**OpenGrab**](https://github.com/Skydope/OpenGrab) | Self-hosted universal video/audio downloader with a web UI and Windows desktop app. Built for homelabs. | Python |
+| [**omarchy-kali-vm**](https://github.com/Skydope/omarchy-kali-vm) | Security-hardened fork of a one-click Kali VM: no privileged container, GPG signature allowlist, pinned image digests. | Shell · Docker · QEMU |
 | [**loki**](https://github.com/Skydope/loki) | Privacy tool that rotates IP (via Tor), MAC address and User-Agent on a schedule. | Python |
-| [**cors-proxy**](https://github.com/Skydope/cors-proxy) | Lightweight CORS proxy server. | Node.js · Express |
 | [**HackingResources**](https://github.com/Skydope/HackingResources) | Curated guide to get started in ethical hacking and pentesting (ES). | — |
+
+> Also around: [**cors-proxy**](https://github.com/Skydope/cors-proxy) (lightweight CORS proxy) and [**CardShell**](https://github.com/Skydope/CardShell) (BadUSB research firmware for the M5Cardputer, for authorized labs).
 
 ### 🧰 Toolbox
 
@@ -80,6 +80,15 @@ I break things to make them safer, and build the backends and infrastructure tha
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### 📊 GitHub
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Skydope&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=4ade80&icon_color=22d3ee&text_color=8b98a5)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Skydope&layout=compact&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=8b98a5)
+
+</div>
 
 ---
 

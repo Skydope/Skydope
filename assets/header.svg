@@ -1,0 +1,46 @@
+<svg width="860" height="210" viewBox="0 0 860 210" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Augusto Natiello — Security Engineer, Pentester, Backend &amp; Systems">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="860" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0a0e14"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#4ade80"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#141b24" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="858" height="208" rx="16" fill="url(#bg)" stroke="#1b232d" stroke-width="1.5"/>
+  <rect x="1" y="1" width="858" height="208" rx="16" fill="url(#grid)" opacity="0.6"/>
+  <rect x="1" y="1" width="858" height="4" rx="2" fill="url(#accent)"/>
+
+  <!-- terminal window dots -->
+  <circle cx="34" cy="40" r="6" fill="#ff5f56"/>
+  <circle cx="56" cy="40" r="6" fill="#ffbd2e"/>
+  <circle cx="78" cy="40" r="6" fill="#27c93f"/>
+  <text x="104" y="45" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#5b6773">skydope@github ~ </text>
+
+  <!-- prompt -->
+  <text x="34" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#4ade80">❯ whoami</text>
+
+  <!-- name -->
+  <text x="34" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#e6edf3">Augusto Natiello</text>
+
+  <!-- role -->
+  <text x="36" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#8b98a5">Security Engineer</text>
+  <text x="210" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#3a4753">·</text>
+  <text x="224" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#8b98a5">Pentester</text>
+  <text x="320" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#3a4753">·</text>
+  <text x="334" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#8b98a5">Backend &amp; Systems</text>
+
+  <!-- tagline -->
+  <text x="34" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#5b6773">I break things to make them safer — and build the infrastructure that survives it.</text>
+
+  <!-- side accent bars -->
+  <rect x="792" y="56" width="44" height="6" rx="3" fill="#22d3ee" opacity="0.9"/>
+  <rect x="760" y="74" width="76" height="6" rx="3" fill="#4ade80" opacity="0.7"/>
+  <rect x="808" y="92" width="28" height="6" rx="3" fill="#2a3340"/>
+</svg>
