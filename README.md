@@ -36,6 +36,7 @@ I break things to make them safer, and build the backends and infrastructure tha
 | Project | What it is | Stack |
 |---|---|---|
 | [**zeus**](https://github.com/Skydope/zeus) | Windows security utilities: AES-256 authenticated file encryption, folder protection, forensic audit log with hash-chain integrity, PBKDF2 auth with progressive lockout. Ships via Scoop. | PowerShell |
+| [**AIF**](https://github.com/Skydope/AIF) | Agent Instruction Format: a plain-text spec for instructing AI agents and pipelines, with typed fields and deterministic parsing. Reference parsers on npm and PyPI, plus a live playground. | TypeScript · Python |
 | [**omarchy-kali-vm**](https://github.com/Skydope/omarchy-kali-vm) | Security-hardened fork of a one-click Kali VM: no privileged container, GPG signature allowlist, pinned image digests. | Shell · Docker · QEMU |
 | [**OpenGrab**](https://github.com/Skydope/OpenGrab) | Self-hosted universal video/audio downloader with a web UI and Windows desktop app. Built for homelabs. | Python |
 | [**loki**](https://github.com/Skydope/loki) | Privacy tool that rotates IP (via Tor), MAC address and User-Agent on a schedule. | Python |
